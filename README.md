@@ -62,7 +62,7 @@ developer = {
   <img src="https://skillicons.dev/icons?i=mssql,mysql&theme=dark&perline=2" />
 </p>
 <p align="center">
-  <b>SQL Server</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MySQL</b>
+  <b>SQL Server</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>PostgreSQL</b>
 </p>
 
 <br/>
