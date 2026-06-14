@@ -1,9 +1,10 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mustafa%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20Automation%20•%20AI%20Integration&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mustafa%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20DevOps%20in%20Progress%20•%20Linux%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+%2B+Python;Automation+Engineer+in+Progress+%F0%9F%A4%96;AI+Integration+Enthusiast+%F0%9F%A7%A0;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+%2B+C%23;Linux+System+Admin+in+Progress;DevOps+Engineer+in+Training;API+Development+%2B+Clean+Architecture" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,126 +15,91 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
-developer = {
-    "name"       : "Mustafa Masoud",
-    "role"       : "Backend Developer",
-    "stack"      : ["ASP.NET", "C#", "Python", "SQL Server"],
-    "focus"      : ["Automation", "AI Integration", "Clean Architecture"],
-    "currently"  : "Leveling up to Software Engineer 🎯",
-    "mindset"    : "Consistent growth > Overnight success 💪",
-    "off_screen" : ["🏋️ Gym every day", "⚽ Football"],
-}
+ 
+    Name        : Mustafa Masoud,
+    Role        : Backend Developer,
+    Stack       : ASP.NET, C#, Python, SQL Server,
+    Learning    : Linux Administration, Docker , DevOps, Advanced APIs,
+    Focus       : Clean Architectur , Automation , System Design, 
+    Goal        : Junior DevOps & Backend Engineer,
+    Mindset     : Consistent growth > Overnight success,
+ 
 ```
 
----
+## Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
+### Languages
 
-<br/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,python&theme=dark&perline=3" /> </p>
 
-### 💻 Languages
+### Backend & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python&theme=dark&perline=3" />
-</p>
-<p align="center">
-  <b>C#</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Python</b>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> </p>
 
-<br/>
+### Databases
 
-### 🔵 Backend & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres&theme=dark&perline=3" /> </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
-</p>
-<p align="center">
-  <b>ASP.NET / .NET</b>
-</p>
+### DevOps & Tools
 
-<br/>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark&perline=4" /> </p>
 
-### 🗄️ Databases
+### Concepts & Architecture
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,mysql&theme=dark&perline=2" />
-</p>
-<p align="center">
-  <b>SQL Server</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>MySQL</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>PostgreSQL</b>
-</p>
-
-<br/>
-
-### ⚙️ DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark&perline=4" />
-</p>
-<p align="center">
-  <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Docker</b>
-</p>
-
-<br/>
-
-### 🧠 Concepts & Architecture
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0f2027?style=for-the-badge&logo=blueprint&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-203a43?style=for-the-badge&logo=code&logoColor=4FC3F7"/>
-  <img src="https://img.shields.io/badge/AI%20Integration-2c5364?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-0f2027?style=for-the-badge&logo=python&logoColor=yellow"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Clean%20Architecture-0f2027?style=for-the-badge&logo=blueprint&logoColor=4FC3F7"/> <img src="https://img.shields.io/badge/REST%20APIs-203a43?style=for-the-badge&logo=fastapi&logoColor=4FC3F7"/> <img src="https://img.shields.io/badge/Linux%20Administration-2c5364?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0f2027?style=for-the-badge&logo=devops&logoColor=white"/> </p>
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-```
-✅  Learn ASP.NET Core — REST APIs & Clean Architecture
-🔲  Build real Python automation workflows
-🔲  Integrate AI into practical backend projects  
-🔲  Ship my first production-ready project
-🔲  Land my first Software Engineer role 🚀
-```
-
----
-
-## 🚀 Projects
-
-> 🔧 Currently building — projects in progress, stay tuned!
-
-| Project | Tech | Status |
-|---------|------|--------|
-| 🤖 Automation Tool | Python | 🛠️ In Progress |
-| 🌐 Backend API | ASP.NET Core | 🛠️ In Progress |
-| 🧠 AI Integration App | Python + AI APIs | 🛠️ In Progress |
+- Learn [ASP.NET](https://asp.net/) Core REST APIs with Clean Architecture
+    
+- Master Linux System Administration (RHCSA level)
+    
+- Start Docker and containerization
+    
+- Build real automation workflows with Python
+    
+- Ship first production-ready project
+    
+- Land first Junior DevOps or Backend role
+    
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mustafammasoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafammasoud&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafammasoud&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
+|Project|Tech|Status|
+|---|---|---|
+|Automation Tool|Python|In Progress|
+|Backend API|[ASP.NET](https://asp.net/) Core|In Progress|
+|Linux Services Setup|Bash + systemd|In Progress|
 
 ---
 
-## ⚡ Fun Facts
+## GitHub Stats
 
-- 🏋️ Gym is my daily reset — discipline on the field = discipline in code
-- ⚽ Football taught me that **teamwork ships better products**
-- 🧠 I don't just learn, I **build systems to learn faster**
-- 🚀 Roadmap-driven developer — always one step closer to the goal
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mustafammasoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafammasoud&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+  
+  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafammasoud&theme=tokyonight&hide_border=true" width="60%"/></div>
+
+---
+
+## Fun Facts
+
+- Gym is my daily reset — discipline on the field equals discipline in code
+    
+- Football taught me that teamwork ships better products
+    
+- I dont just learn, I build systems to learn faster
+    
+- Roadmap-driven developer — always one step closer to the goal
 
 ---
 
