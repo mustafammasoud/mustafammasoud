@@ -19,13 +19,11 @@
 
 ```python
  
-    Name        : Mustafa Masoud,
-    Role        : Backend Developer,
-    Stack       : ASP.NET, C#, Python, SQL Server,
-    Learning    : Linux Administration, Docker , DevOps, Advanced APIs,
-    Focus       : Clean Architectur , Automation , System Design, 
-    Goal        : Junior DevOps & Backend Engineer,
-    Mindset     : Consistent growth > Overnight success,
+    - Computer Science student focused on Backend Development and DevOps Engineering.
+    - Passionate about Linux, system administration, cloud computing, and automation.
+    - Building expertise in .NET, APIs, databases, containers, and CI/CD pipelines.
+    - Enjoy solving technical problems and understanding how systems work under the hood.
+    - Committed to continuous learning and creating practical projects that improve my skills.
  
 ```
 
