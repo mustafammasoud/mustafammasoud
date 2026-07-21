@@ -65,29 +65,6 @@
     
 - Land first Junior DevOps or Backend role
     
-
----
-
-## Projects
-
-|Project|Tech|Status|
-|---|---|---|
-|Automation Tool|Python|In Progress|
-|Backend API|[ASP.NET](https://asp.net/) Core|In Progress|
-|Linux Services Setup|Bash + systemd|In Progress|
-
----
-
-## Fun Facts
-
-- Gym is my daily reset — discipline on the field equals discipline in code
-    
-- Football taught me that teamwork ships better products
-    
-- I dont just learn, I build systems to learn faster
-    
-- Roadmap-driven developer — always one step closer to the goal
-
 ---
 
 ##  Let's Connect
