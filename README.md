@@ -9,7 +9,12 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mustafammasoud&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/mustafammasoud?label=Stars&style=social"/>
+
 
 </div>
 
