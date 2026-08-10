@@ -1,75 +1,143 @@
+# 👋 Hi there.
 
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&duration=2500&pause=500&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Mustafa+Masoud;DevOps+Engineer;Linux+Administrator" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mustafa%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20DevOps%20in%20Progress%20•%20Linux%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+- I started my journey in Backend Development, building APIs and working with databases and backend architecture.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+%2B+C%23;Linux+System+Admin+in+Progress;DevOps+Engineer+in+Training;API+Development+%2B+Clean+Architecture" alt="Typing SVG" />
-</a>
+- Now I'm transitioning into DevOps Engineering, expanding my knowledge into Linux, networking, containers, automation, CI/CD, and cloud infrastructure.
+
+- My backend background helps me understand not only how applications are built, but also how they are deployed, automated, monitored, and operated.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/mustafammasoud?label=Stars&style=social"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/mustafammasoud?label=Stars&style=social"/>
+</p>
 
 
 </div>
 
----
 
-## About Me
 
-```python
- 
-    - Computer Science student focused on Backend Development and DevOps Engineering.
-    - Passionate about Linux, system administration, cloud computing, and automation.
-    - Building expertise in .NET, APIs, databases, containers, and CI/CD pipelines.
-    - Enjoy solving technical problems and understanding how systems work under the hood.
-    - Committed to continuous learning and creating practical projects that improve my skills.
+<img width="200" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+### About Me
+
+- 💻 Started with **Backend Development & .NET**
+    
+- 🐧 Currently focused on **Linux & DevOps Engineering**
+    
+- 🐳 Learning **Docker & Containerization**
+    
+- 🌐 Building strong foundations in **Networking**
+    
+- ⚙️ Interested in **Automation, CI/CD & Infrastructure**
+    
+- ☁️ Exploring **Cloud Engineering**
+    
+- 🔧 I enjoy understanding systems from the application layer down to the infrastructure
  
 ```
+```
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### Languages
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,cpp,python&theme=dark&perline=3" /> </p>
-
-### Backend & Frameworks
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> </p>
-
-### Databases
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres&theme=dark&perline=3" /> </p>
-
-### DevOps & Tools
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark&perline=4" /> </p>
-
-### Concepts & Architecture
-
-<p align="center"> <img src="https://img.shields.io/badge/Clean%20Architecture-0f2027?style=for-the-badge&logo=blueprint&logoColor=4FC3F7"/> <img src="https://img.shields.io/badge/REST%20APIs-203a43?style=for-the-badge&logo=fastapi&logoColor=4FC3F7"/> <img src="https://img.shields.io/badge/Linux%20Administration-2c5364?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0f2027?style=for-the-badge&logo=devops&logoColor=white"/> </p>
+### 💻 Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+<p align="center">
+  <em>C# · ASP.NET Core · .NET · REST APIs · Entity Framework Core · LINQ</em>
+</p>
 
 ---
 
-## Current Goals
+### ⚙️ Automation & Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,go" />
+</p>
 
-- Learn [ASP.NET](https://asp.net/) Core REST APIs with Clean Architecture
-    
-- Master Linux System Administration (RHCSA level)
-    
-- Start Docker and containerization
-    
-- Build real automation workflows with Python
-    
-- Ship first production-ready project
-    
-- Land first Junior DevOps or Backend role
-    
+---
+
+### 🐧 DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,ansible,terraform,jenkins,aws,azure,grafana,prometheus" />
+</p>
+<p align="center">
+  <em>🌐 Networking · 🔄 CI/CD Pipelines (GitHub Actions & Jenkins)</em>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+---
+
+### 🧠 Core Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/-OOP-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOLID-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Design%20Patterns-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Data%20Structures-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Operating%20Systems-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Networking-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-System%20Architecture-05122A?style=flat-square&logoColor=white" />
+</p>
+
+---
+
+### 🗺️ My Journey
+
+```text
+Backend Development
+        │
+        ├── C# / .NET
+        ├── ASP.NET Core
+        ├── REST APIs
+        ├── Databases
+        └── Backend Architecture
+                │
+                ▼
+        DevOps Engineering
+                │
+        ├── Linux
+        ├── Networking
+        ├── Docker
+        ├── Automation
+        ├── CI/CD
+        └── Cloud
+```
+I'm not leaving backend behind.
+I'm building on top of it to understand the complete software lifecycle — from writing the application to deploying, automating, and operating it in production.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafammasoud&theme=radical&hide_border=true" width="80%" />
+</div>
+
+---
+
+##  Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⚡_Current_Focus-Kubernetes_&_Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦_Learning-Terraform_&_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Exploring-AWS_&_Azure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
 ---
 
 ##  Let's Connect
@@ -96,6 +164,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-*"Consistency beats talent when talent isn't consistent."* 💪
+*" Build the application. Understand the infrastructure. Own the whole system."* 
 
 </div>
