@@ -44,7 +44,7 @@
 ```
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Back-end
 <p align="center">
@@ -83,7 +83,7 @@
 
 ---
 
-### 🧠 Core Concepts
+###  Core Concepts
 <p align="center">
   <img src="https://img.shields.io/badge/-OOP-05122A?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-SOLID-05122A?style=flat-square&logoColor=white" />
@@ -119,14 +119,6 @@ Backend Development
 ```
 I'm not leaving backend behind.
 I'm building on top of it to understand the complete software lifecycle — from writing the application to deploying, automating, and operating it in production.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafammasoud&theme=radical&hide_border=true" width="80%" />
-</div>
 
 ---
 
