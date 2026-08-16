@@ -131,7 +131,14 @@ I'm building on top of it to understand the complete software lifecycle — from
 </div>
 
 ---
+### GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=mustafammasoud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats-three-sand.vercel.app?user=mustafammasoud&theme=nord&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
 ##  Let's Connect
 
 <div align="center">
