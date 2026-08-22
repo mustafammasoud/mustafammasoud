@@ -26,7 +26,7 @@
 <img width="200" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ### About Me
-
+---
 - 💻 Started with **Backend Development & .NET**
     
 - 🐧 Currently focused on **Linux & DevOps Engineering**
@@ -40,6 +40,7 @@
 - ☁️ Exploring **Cloud Engineering**
     
 - 🔧 I enjoy understanding systems from the application layer down to the infrastructure 
+---
 
 ## Tech Stack
 
