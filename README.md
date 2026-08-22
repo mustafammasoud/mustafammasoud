@@ -39,10 +39,7 @@
     
 - ☁️ Exploring **Cloud Engineering**
     
-- 🔧 I enjoy understanding systems from the application layer down to the infrastructure
- 
-```
-```
+- 🔧 I enjoy understanding systems from the application layer down to the infrastructure 
 
 ## Tech Stack
 
