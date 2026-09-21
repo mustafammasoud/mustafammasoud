@@ -44,44 +44,61 @@
 
 ## Tech Stack
 
-### 💻 Back-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-<p align="center">
-  <em>C# · ASP.NET Core · .NET · REST APIs · Entity Framework Core · LINQ</em>
-</p>
+<table>
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td align="center"><strong>DevOps & Infrastructure</strong></td>
+<td align="center"><strong>Automation</strong></td>
+</tr>
+<tr>
+<td align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cs,dotnet" /><br/>
+<em>· C# · ASP.NET Core · .NET · REST APIs · EF Core</em>
 
-### ⚙️ Automation & Scripting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,go" />
-</p>
+</td>
+<td align="center">
 
----
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform" /><br/>
+<em>· Containers · Orchestration · IaC · Provisioning</em>
 
-### 🐧 DevOps & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,kubernetes,ansible,terraform,jenkins,aws,azure,grafana,prometheus" />
-</p>
-<p align="center">
-  <em>🌐 Networking · 🔄 CI/CD Pipelines (GitHub Actions & Jenkins)</em>
-</p>
+</td>
+<td align="center">
 
----
+<img src="https://skillicons.dev/icons?i=bash,py,go" /><br/>
+<em>· Scripting · Automation · Tooling</em>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>CI/CD & Monitoring</strong></td>
+<td align="center"><strong>Databases</strong></td>
+<td align="center"><strong>Cloud</strong></td>
+</tr>
+<tr>
+<td align="center">
 
----
+<img src="https://skillicons.dev/icons?i=github,jenkins,grafana,prometheus" /><br/>
+<em>· Pipelines · Dashboards · Observability</em>
 
-###  Core Concepts
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br/>
+<em>· SQL Server · PostgreSQL · MySQL · SQLite</em>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure" /><br/>
+<em>· Compute · Storage · Networking</em>
+
+</td>
+</tr>
+</table>
+
+### Core Concepts
+
 <p align="center">
   <img src="https://img.shields.io/badge/-OOP-05122A?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/-SOLID-05122A?style=flat-square&logoColor=white" />
@@ -94,26 +111,20 @@
 
 ---
 
-### 🗺️ My Journey
+## My Journey
 
 ```text
-Backend Development
-        │
-        ├── C# / .NET
-        ├── ASP.NET Core
-        ├── REST APIs
-        ├── Databases
-        └── Backend Architecture
-                │
-                ▼
-        DevOps Engineering
-                │
-        ├── Linux
-        ├── Networking
-        ├── Docker
-        ├── Automation
-        ├── CI/CD
-        └── Cloud
+Backend Development              DevOps Engineering
+        │                                │
+        ├── C# / .NET                    ├── Linux Administration
+        ├── ASP.NET Core                 ├── Networking
+        ├── REST APIs                    ├── Docker & Containers
+        ├── Databases                    ├── Kubernetes & Orchestration
+        └── Backend Architecture         ├── Automation & Scripting
+                                         ├── CI/CD Pipelines
+                                         └── Cloud Infrastructure
+
+
 ```
 I'm not leaving backend behind.
 I'm building on top of it to understand the complete software lifecycle — from writing the application to deploying, automating, and operating it in production.
