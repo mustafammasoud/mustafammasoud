@@ -1,14 +1,12 @@
 # 👋 Hi there.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&duration=2500&pause=500&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Mustafa+Masoud;DevOps+Engineer;Linux+Administrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=I'm+Mustafa+Masoud;DevOps+Engineer;Linux+Administrator" alt="Typing SVG" />
 </h1>
 
-- I started my journey in Backend Development, building APIs and working with databases and backend architecture.
-
-- Now I'm transitioning into DevOps Engineering, expanding my knowledge into Linux, networking, containers, automation, CI/CD, and cloud infrastructure.
-
-- My backend background helps me understand not only how applications are built, but also how they are deployed, automated, monitored, and operated.
+<p align="center">
+  DevOps Engineer focused on Linux, containers, automation, CI/CD, and cloud infrastructure.
+</p>
 
 <br/><br/>
 
@@ -18,95 +16,123 @@
   <img src="https://img.shields.io/github/stars/mustafammasoud?label=Stars&style=social"/>
 </p>
 
-
-</div>
-
-
-
-<img width="200" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-### About Me
 ---
-- 💻 Started with **Backend Development & .NET**
-    
-- 🐧 Currently focused on **Linux & DevOps Engineering**
-    
-- 🐳 Learning **Docker & Containerization**
-    
-- 🌐 Building strong foundations in **Networking**
-    
-- ⚙️ Interested in **Automation, CI/CD & Infrastructure**
-    
-- ☁️ Exploring **Cloud Engineering**
-    
-- 🔧 I enjoy understanding systems from the application layer down to the infrastructure 
+
+## About Me
+
+* 💻 Started with **Backend Development & .NET**
+* 🐧 Currently focused on **Linux & DevOps Engineering**
+* 🐳 Learning **Docker & Containerization**
+* 🌐 Building strong foundations in **Networking**
+* ⚙️ Interested in **Automation, CI/CD & Infrastructure**
+* ☁️ Exploring **Cloud Engineering**
+* 🔧 I enjoy understanding systems from the application layer down to the infrastructure
+
+My journey started with backend development, building APIs, working with databases, and understanding application architecture.
+
+I'm now expanding that foundation into DevOps Engineering — learning how applications are **built, packaged, deployed, automated, monitored, and operated**.
+
 ---
 
 ## Tech Stack
 
 <table>
 <tr>
-<td align="center"><strong>Backend</strong></td>
-<td align="center"><strong>DevOps & Infrastructure</strong></td>
-<td align="center"><strong>Automation</strong></td>
+<td align="center" width="33%">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+<br/>
+
+· C# · ASP.NET Core · .NET
+· REST APIs · EF Core
+
+</td>
+
+<td align="center" width="33%">
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx" />
+
+<br/>
+
+· Linux · Docker · Kubernetes
+· Containers · Networking
+
+</td>
+
+<td align="center" width="33%">
+
+### Automation
+
+<img src="https://skillicons.dev/icons?i=bash,py,git,githubactions" />
+
+<br/>
+
+· Bash · Python · Git
+· CI/CD · Automation
+
+</td>
 </tr>
+
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" /><br/>
-<em>· C# · ASP.NET Core · .NET · REST APIs · EF Core</em>
+### CI/CD & Monitoring
+
+<img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus" />
+
+<br/>
+
+· Pipelines · Monitoring
+· Dashboards · Observability
 
 </td>
+
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform" /><br/>
-<em>· Containers · Orchestration · IaC · Provisioning</em>
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+<br/>
+
+· SQL Server · PostgreSQL
+· MySQL
+· SQLite
 
 </td>
+
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=bash,py,go" /><br/>
-<em>· Scripting · Automation · Tooling</em>
+### Cloud & IaC
 
-</td>
-</tr>
-<tr>
-<td align="center"><strong>CI/CD & Monitoring</strong></td>
-<td align="center"><strong>Databases</strong></td>
-<td align="center"><strong>Cloud</strong></td>
-</tr>
-<tr>
-<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
 
-<img src="https://skillicons.dev/icons?i=github,jenkins,grafana,prometheus" /><br/>
-<em>· Pipelines · Dashboards · Observability</em>
+<br/>
 
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br/>
-<em>· SQL Server · PostgreSQL · MySQL · SQLite</em>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure" /><br/>
-<em>· Compute · Storage · Networking</em>
+· Cloud · Infrastructure as Code
+· Provisioning · Configuration
 
 </td>
 </tr>
 </table>
 
-### Core Concepts
+---
+
+## Core Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-OOP-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOLID-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Design%20Patterns-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data%20Structures-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Operating%20Systems-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Networking-05122A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/-System%20Architecture-05122A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/SOLID-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Structures-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Networking-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Architecture-1f2937?style=flat-square" />
 </p>
 
 ---
@@ -114,7 +140,7 @@
 ## My Journey
 
 ```text
-Backend Development              DevOps Engineering
+Backend Development        --->      DevOps Engineering
         │                                │
         ├── C# / .NET                    ├── Linux Administration
         ├── ASP.NET Core                 ├── Networking
@@ -123,24 +149,61 @@ Backend Development              DevOps Engineering
         └── Backend Architecture         ├── Automation & Scripting
                                          ├── CI/CD Pipelines
                                          └── Cloud Infrastructure
-
-
 ```
+
 I'm not leaving backend behind.
+
 I'm building on top of it to understand the complete software lifecycle — from writing the application to deploying, automating, and operating it in production.
 
 ---
 
-##  Current Focus
+## Current Focus
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡_Current_Focus-Kubernetes_&_Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/📦_Learning-Terraform_&_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌐_Exploring-AWS_&_Azure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/⚡_Current_Focus-Kubernetes_&_Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+<img src="https://img.shields.io/badge/📦_Learning-Terraform_&_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<img src="https://img.shields.io/badge/🌐_Exploring-AWS_&_Azure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 </div>
 
+Currently working on:
+
+* Kubernetes fundamentals
+* Containerized applications
+* Linux administration
+* Networking fundamentals
+* CI/CD with GitHub Actions
+* Infrastructure and automation
+* Practical DevOps projects
+
 ---
-### GitHub Stats
+
+## Featured Projects
+
+### Microservices DevOps Lab
+
+A practical environment for learning how to containerize, connect, deploy, and operate a multi-service application.
+
+**Focus:** `Docker` `Containers` `Networking` `Databases` `CI/CD` `Kubernetes`
+
+### Dockerized Node.js Fullstack
+
+A full-stack application used to practice containerization, service communication, environment configuration, and deployment workflows.
+
+**Focus:** `Docker` `Node.js` `REST API` `Networking`
+
+### LifeOS
+
+A personal productivity application built around practical software engineering and automation concepts.
+
+**Focus:** `TypeScript` `React Native` `SQLite` `Expo` `Notifications`
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=mustafammasoud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -148,25 +211,33 @@ I'm building on top of it to understand the complete software lifecycle — from
 </p>
 
 ---
-##  Let's Connect
+## Contact Me
 
-<div align="center">
+<p align="center">
 
-<br/>
+<a href="https://mustafamasoud.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Masoud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafammasoud/)
-[![GitHub](https://img.shields.io/badge/GitHub-mustafammasoud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafammasoud)
+<a href="https://www.linkedin.com/in/mustafammasoud/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Masoud?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
 
-<br/>
+<a href="https://github.com/mustafammasoud">
+  <img src="https://img.shields.io/badge/GitHub-mustafammasoud?style=for-the-badge&logo=github&logoColor=white&color=24292F" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-masoudmustafa90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoudmustafa90@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@mustafams3oud-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mustafams3oud)
+<a href="mailto:masoudmustafa90@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
+</a>
 
-<br/>
+<a href="https://t.me/mustafams3oud">
+  <img src="https://img.shields.io/badge/Telegram-%40mustafams3oud?style=for-the-badge&logo=telegram&logoColor=white&color=229ED9" />
+</a>
 
-</div>
+</p>
 
----
+----
 
 <div align="center">
 
