@@ -20,13 +20,13 @@
 
 ## About Me
 
-* 💻 Started with **Backend Development & .NET**
-* 🐧 Currently focused on **Linux & DevOps Engineering**
-* 🐳 Learning **Docker & Containerization**
-* 🌐 Building strong foundations in **Networking**
-* ⚙️ Interested in **Automation, CI/CD & Infrastructure**
-* ☁️ Exploring **Cloud Engineering**
-* 🔧 I enjoy understanding systems from the application layer down to the infrastructure
+*  Started with **Backend Development & .NET**
+*  Currently focused on **Linux & DevOps Engineering**
+*  Learning **Docker & Containerization**
+*  Building strong foundations in **Networking**
+*  Interested in **Automation, CI/CD & Infrastructure**
+*  Exploring **Cloud Engineering**
+*  I enjoy understanding systems from the application layer down to the infrastructure
 
 My journey started with backend development, building APIs, working with databases, and understanding application architecture.
 
