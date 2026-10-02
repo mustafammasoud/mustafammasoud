@@ -1,4 +1,4 @@
-# 👋 Hi there.
+# <img src="assets/icons/wave.svg" alt="👋" width="36" height="36" /> Hi there.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=I'm+Mustafa+Masoud;DevOps+Engineer;Linux+Administrator" alt="Typing SVG" />
@@ -11,14 +11,15 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social"/>
-  <img src="https://img.shields.io/github/stars/mustafammasoud?label=Stars&style=social"/>
+  <a href="https://github.com/mustafammasoud">
+    <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social" alt="GitHub followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## About Me
+## <img src="assets/icons/user.svg" width="18" height="18" alt="" /> About me
 
 *  Started with **Backend Development & .NET**
 *  Currently focused on **Linux & DevOps Engineering**
@@ -34,7 +35,7 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ---
 
-## Tech Stack
+## <img src="assets/icons/cpu.svg" width="18" height="18" alt="" /> Tech stack
 
 <table>
 <tr>
@@ -42,25 +43,24 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-<br/>
-
-· C# · ASP.NET Core · .NET
-· REST APIs · EF Core
+<img src="assets/icons/badges/tech/csharp.svg" alt="C#"/>
+&nbsp;<img src="assets/icons/badges/tech/dotnet.svg" alt=".NET"/>
+&nbsp;<img src="assets/icons/badges/tags/aspnet-core.svg" alt="ASP.NET Core"/>
+&nbsp;<img src="assets/icons/badges/tags/ef-core.svg" alt="EF Core"/>
+&nbsp;<img src="assets/icons/badges/tags/rest-apis.svg" alt="REST APIs"/>
 
 </td>
 
 <td align="center" width="33%">
 
-### DevOps & Infrastructure
+### DevOps &amp; Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx" />
-
-<br/>
-
-· Linux · Docker · Kubernetes
-· Containers · Networking
+<img src="assets/icons/badges/tech/linux.svg" alt="Linux"/>
+&nbsp;<img src="assets/icons/badges/tech/docker.svg" alt="Docker"/>
+&nbsp;<img src="assets/icons/badges/tech/kubernetes.svg" alt="Kubernetes"/>
+&nbsp;<img src="assets/icons/badges/tech/nginx.svg" alt="Nginx"/>
+&nbsp;<img src="assets/icons/badges/tags/containers.svg" alt="Containers"/>
+&nbsp;<img src="assets/icons/badges/tags/networking.svg" alt="Networking"/>
 
 </td>
 
@@ -68,12 +68,12 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ### Automation
 
-<img src="https://skillicons.dev/icons?i=bash,py,git,githubactions" />
-
-<br/>
-
-· Bash · Python · Git
-· CI/CD · Automation
+<img src="assets/icons/badges/tech/bash.svg" alt="Bash"/>
+&nbsp;<img src="assets/icons/badges/tech/python.svg" alt="Python"/>
+&nbsp;<img src="assets/icons/badges/tech/git.svg" alt="Git"/>
+&nbsp;<img src="assets/icons/badges/tech/githubactions.svg" alt="GitHub Actions"/>
+&nbsp;<img src="assets/icons/badges/tags/ci-cd.svg" alt="CI/CD"/>
+&nbsp;<img src="assets/icons/badges/tags/automation.svg" alt="Automation"/>
 
 </td>
 </tr>
@@ -81,14 +81,15 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 <tr>
 <td align="center">
 
-### CI/CD & Monitoring
+### CI/CD &amp; Monitoring
 
-<img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus" />
-
-<br/>
-
-· Pipelines · Monitoring
-· Dashboards · Observability
+<img src="assets/icons/badges/tech/githubactions.svg" alt="GitHub Actions"/>
+&nbsp;<img src="assets/icons/badges/tech/prometheus.svg" alt="Prometheus"/>
+&nbsp;<img src="assets/icons/badges/tech/grafana.svg" alt="Grafana"/>
+&nbsp;<img src="assets/icons/badges/tags/pipelines.svg" alt="Pipelines"/>
+&nbsp;<img src="assets/icons/badges/tags/monitoring.svg" alt="Monitoring"/>
+&nbsp;<img src="assets/icons/badges/tags/dashboards.svg" alt="Dashboards"/>
+&nbsp;<img src="assets/icons/badges/tags/observability.svg" alt="Observability"/>
 
 </td>
 
@@ -96,26 +97,25 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-
-<br/>
-
-· SQL Server · PostgreSQL
-· MySQL
-· SQLite
+<img src="assets/icons/badges/tech/sqlserver.svg" alt="SQL Server"/>
+&nbsp;<img src="assets/icons/badges/tech/postgres.svg" alt="PostgreSQL"/>
+&nbsp;<img src="assets/icons/badges/tech/mysql.svg" alt="MySQL"/>
+&nbsp;<img src="assets/icons/badges/tech/sqlite.svg" alt="SQLite"/>
 
 </td>
 
 <td align="center">
 
-### Cloud & IaC
+### Cloud &amp; IaC
 
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
-
-<br/>
-
-· Cloud · Infrastructure as Code
-· Provisioning · Configuration
+<img src="assets/icons/badges/tech/aws.svg" alt="AWS"/>
+&nbsp;<img src="assets/icons/badges/tech/azure.svg" alt="Azure"/>
+&nbsp;<img src="assets/icons/badges/tech/terraform.svg" alt="Terraform"/>
+&nbsp;<img src="assets/icons/badges/tech/ansible.svg" alt="Ansible"/>
+&nbsp;<img src="assets/icons/badges/tags/cloud.svg" alt="Cloud"/>
+&nbsp;<img src="assets/icons/badges/tags/iac.svg" alt="Infrastructure as Code"/>
+&nbsp;<img src="assets/icons/badges/tags/provisioning.svg" alt="Provisioning"/>
+&nbsp;<img src="assets/icons/badges/tags/configuration.svg" alt="Configuration"/>
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ---
 
-## Core Concepts
+## <img src="assets/icons/pen.svg" width="18" height="18" alt="" /> Core Concepts
 
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-1f2937?style=flat-square" />
@@ -137,19 +137,11 @@ I'm now expanding that foundation into DevOps Engineering — learning how appli
 
 ---
 
-## My Journey
+## <img src="assets/icons/trending.svg" width="18" height="18" alt="" /> Journey
 
-```text
-Backend Development        --->      DevOps Engineering
-        │                                │
-        ├── C# / .NET                    ├── Linux Administration
-        ├── ASP.NET Core                 ├── Networking
-        ├── REST APIs                    ├── Docker & Containers
-        ├── Databases                    ├── Kubernetes & Orchestration
-        └── Backend Architecture         ├── Automation & Scripting
-                                         ├── CI/CD Pipelines
-                                         └── Cloud Infrastructure
-```
+<p align="center">
+  <img src="assets/journey.svg" alt="From backend development to DevOps engineering" />
+</p>
 
 I'm not leaving backend behind.
 
@@ -157,15 +149,13 @@ I'm building on top of it to understand the complete software lifecycle — from
 
 ---
 
-## Current Focus
+## <img src="assets/icons/target.svg" width="18" height="18" alt="" /> Current Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_Current_Focus-Kubernetes_&_Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-<img src="https://img.shields.io/badge/📦_Learning-Terraform_&_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-
-<img src="https://img.shields.io/badge/🌐_Exploring-AWS_&_Azure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="assets/icons/badges/focus/kubernetes.svg" alt="Current focus: Kubernetes &amp; Cloud Native"/>
+&nbsp;<img src="assets/icons/badges/focus/terraform.svg" alt="Learning: Terraform &amp; IaC"/>
+&nbsp;<img src="assets/icons/badges/focus/cloud.svg" alt="Exploring: AWS &amp; Azure"/>
 
 </div>
 
@@ -181,29 +171,68 @@ Currently working on:
 
 ---
 
-## Featured Projects
 
-### Microservices DevOps Lab
+## <img src="assets/icons/star.svg" width="18" height="18" alt="" /> Projects I actually use
 
-A practical environment for learning how to containerize, connect, deploy, and operate a multi-service application.
+### <img src="assets/icons/book.svg" width="16" height="16" alt="" /> [ops-handbook](https://github.com/mustafammasoud/ops-handbook)
 
-**Focus:** `Docker` `Containers` `Networking` `Databases` `CI/CD` `Kubernetes`
+An open-source DevOps knowledge base. Structured docs, labs, cheatsheets and
+troubleshooting notes — not a blog. Markdown/MDX in the repo as the source of truth,
+Astro for the site, static output ready for Cloudflare Pages.
+`Astro` `MDX` `Docs-as-code`
 
-### Dockerized Node.js Fullstack
+### <img src="assets/icons/package.svg" width="16" height="16" alt="" /> [microservices-devops-lab](https://github.com/mustafammasoud/microservices-devops-lab)
 
-A full-stack application used to practice containerization, service communication, environment configuration, and deployment workflows.
+An e-commerce demo split into services behind an Nginx load balancer, one container per
+service. Built to practice Docker networking, service discovery and realistic compose
+setups instead of running a single `docker run`.
+`Docker` `Nginx` `Microservices`
 
-**Focus:** `Docker` `Node.js` `REST API` `Networking`
+### <img src="assets/icons/package.svg" width="16" height="16" alt="" />  [dockerized-nodejs-fullstack](https://github.com/mustafammasoud/dockerized-nodejs-fullstack)
 
-### LifeOS
+Nginx → Node.js → PostgreSQL, three containers on one network. The project where the
+proxying, ports and environment variables finally stopped being magic.
+`Docker` `Node.js` `PostgreSQL`
 
-A personal productivity application built around practical software engineering and automation concepts.
+### <img src="assets/icons/terminal.svg" width="16" height="16" alt="" />  [server-health-check](https://github.com/mustafammasoud/server-health-check)
 
-**Focus:** `TypeScript` `React Native` `SQLite` `Expo` `Notifications`
+A Bash script that SSHes into a list of machines and reports uptime, root disk usage,
+memory and failed login attempts. Strict mode, `getopts`, logging, `trap` cleanup —
+small, but it forced me to write shell properly.
+`Bash` `SSH` `Automation`
+
+### <img src="assets/icons/target.svg" width="16" height="16" alt="" />  [task-manager-api](https://github.com/mustafammasoud/task-manager-api)
+
+ASP.NET Core 10 CRUD API with controllers, services and repositories kept strictly
+apart, PostgreSQL through EF Core. My reference for how I want back-end code structured.
+`C#` `ASP.NET Core` `PostgreSQL`
+
+### <img src="assets/icons/target.svg" width="16" height="16" alt="" /> [LifeOS](https://github.com/mustafammasoud/LifeOS)
+
+A cross-platform .NET desktop app for tasks, study sessions, habits, goals, events and
+stats. The largest thing I've shipped, and the reason I started caring about releases
+and installers.
+`C#` `.NET` `Desktop`
 
 ---
 
-## GitHub Stats
+### Also in the shelf
+
+| Repository | What it is |
+| --- | --- |
+| [dockerized-flask](https://github.com/mustafammasoud/dockerized-flask) | Minimal Flask app with a Dockerfile, for practising image builds |
+| [log-file-analyzer](https://github.com/mustafammasoud/log-file-analyzer) | Python CLI that parses log levels, searches keywords and exports to CSV |
+| [lan-chat](https://github.com/mustafammasoud/lan-chat) | Real-time LAN chat in pure Python — raw TCP sockets, no libraries |
+| [quran-tracker](https://github.com/mustafammasoud/quran-tracker) | Single-file, offline Arabic web app for tracking memorisation and review |
+| [task-manager-api](https://github.com/mustafammasoud/task-manager-api) · [smart-library-api](https://github.com/mustafammasoud/smart-library-api) · [secure-api](https://github.com/mustafammasoud/secure-api) · [crud-project](https://github.com/mustafammasoud/crud-project) | The back-end collection — APIs and CRUD work from when I was learning the basics |
+
+Most of these are small on purpose. They exist to answer one question each, and I'd
+rather finish them than leave half a course in a folder.
+
+
+---
+
+## <img src="assets/icons/chart.svg" width="18" height="18" alt="" /> GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=mustafammasoud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -211,38 +240,19 @@ A personal productivity application built around practical software engineering 
 </p>
 
 ---
-## Contact Me
+ ## <img src="assets/icons/globe.svg" width="18" height="18" alt="" />  Contact Me
 
 <p align="center">
-
-<a href="https://mustafamasoud.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/mustafammasoud/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Masoud?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
-</a>
-
-<a href="https://github.com/mustafammasoud">
-  <img src="https://img.shields.io/badge/GitHub-mustafammasoud?style=for-the-badge&logo=github&logoColor=white&color=24292F" />
-</a>
-
-<a href="mailto:masoudmustafa90@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
-</a>
-
-<a href="https://t.me/mustafams3oud">
-  <img src="https://img.shields.io/badge/Telegram-%40mustafams3oud?style=for-the-badge&logo=telegram&logoColor=white&color=229ED9" />
-</a>
-
+  <a href="https://mustafamasoud.pages.dev"><img src="assets/icons/badges/portfolio.svg" alt="Personal portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mustafammasoud/"><img src="assets/icons/badges/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://github.com/mustafammasoud"><img src="assets/icons/badges/github.svg" alt="GitHub"/></a>
+  <a href="mailto:masoudmustafa90@gmail.com"><img src="assets/icons/badges/email.svg" alt="Email"/></a>
+  <a href="https://t.me/mustafams3oud"><img src="assets/icons/badges/telegram.svg" alt="Telegram"/></a>
 </p>
 
 ----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-*" Build the application. Understand the infrastructure. Own the whole system."* 
-
-</div>
+<p align="center">
+  <img src="assets/icons/terminal.svg" width="20" height="20" alt="" /><br/>
+  <em>Build the application, then go learn what it runs on.</em>
+</p>
