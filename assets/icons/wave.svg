@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Waving hand">
+  <defs>
+    <linearGradient id="skin" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#FFE0B8"/>
+      <stop offset="1" stop-color="#FFB98A"/>
+    </linearGradient>
+    <linearGradient id="sleeve" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8AB4FF"/>
+      <stop offset="1" stop-color="#6C8CFF"/>
+    </linearGradient>
+    <linearGradient id="motion" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#BC8CFF" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="rotate(-13 32 36)">
+    <rect x="11.5" y="30" width="8" height="19" rx="4" fill="url(#skin)" transform="rotate(-42 15.5 39.5)"/>
+    <rect x="20" y="25" width="27" height="25" rx="11" fill="url(#skin)"/>
+    <rect x="20.5" y="14.5" width="6.5" height="24" rx="3.25" fill="url(#skin)"/>
+    <rect x="27.3" y="11.5" width="6.5" height="27" rx="3.25" fill="url(#skin)"/>
+    <rect x="34.1" y="13" width="6.5" height="25.5" rx="3.25" fill="url(#skin)"/>
+    <rect x="40.9" y="17" width="6.5" height="22" rx="3.25" fill="url(#skin)"/>
+    <rect x="20.5" y="44.5" width="27" height="13" rx="6.5" fill="url(#sleeve)"/>
+  </g>
+
+  <path d="M52.5 17.5a10 10 0 0 1 2.6 8.8" fill="none" stroke="url(#motion)" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M57 12.5a15 15 0 0 1 3.6 13" fill="none" stroke="url(#motion)" stroke-width="3.6" stroke-linecap="round" opacity="0.45"/>
+</svg>
