@@ -12,15 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/mustafammasoud">
-<<<<<<< Updated upstream
     <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social" alt="GitHub followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views"/>
-=======
     <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=for-the-badge&labelColor=363b42&color=89a0b3" alt="GitHub followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&style=for-the-badge&label_color=363b42&color=89a0b3" alt="Profile views"/>
->>>>>>> Stashed changes
+
 </p>
 
 ---
