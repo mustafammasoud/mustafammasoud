@@ -10,16 +10,17 @@
 
 <br/><br/>
 
-<p align="center">
-  <a href="https://github.com/mustafammasoud">
-    <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=social" alt="GitHub followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/mustafammasoud?label=Followers&style=for-the-badge&labelColor=363b42&color=89a0b3" alt="GitHub followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mustafammasoud&label=Profile%20views&style=for-the-badge&label_color=363b42&color=89a0b3" alt="Profile views"/>
+<div align="center" style="display: flex; flex-direction: row; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: nowrap; margin: 8px 0;">
 
-</p>
+  <!-- Profile Views Card -->
+  <div style="display: flex; flex-direction: column; align-items: center; padding: 22px 28px; border-radius: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #eaeef3 100%); border: 1.5px solid #dde2e8; box-shadow: 0 4px 16px rgba(90,110,125,0.06); min-width: 140px; flex-shrink: 0;">
+    <img src="assets/icons/eye.svg" width="28" height="28" style="margin-bottom: 10px; opacity: 0.9;" alt="Views"/>
+    <div style="font-size: 26px; font-weight: 700; color: #5a6e7d; letter-spacing: -0.03em; line-height: 1.1; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
+      <img src="https://komarev.com/ghpvc/?username=mustafammasoud&amp;label=&amp;style=flat-square&amp;color=5a6e7d&amp;label_color=f5f7fa&amp;logo=data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2724%27%20height%3D%2724%27%20viewBox%3D%270%200%2024%2024%27%20fill%3D%27none%27%3E%3Cdefs%3E%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%3Cstop%20offset%3D%270%27%20stop-color%3D%27%238aa5b8%27%2F%3E%3Cstop%20offset%3D%271%27%20stop-color%3D%27%239b8ca8%27%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cpath%20d%3D%27M2.8%2012c2.6-4.9%205.6-7.3%209.2-7.3s6.6%202.4%209.2%207.3c-2.6%204.9-5.6%207.3-9.2%207.3S5.4%2016.9%202.8%2012Z%27%20stroke%3D%27url%28%23g%29%27%20stroke-width%3D%271.8%27%20stroke-linejoin%3D%27round%27%2F%3E%3Ccircle%20cx%3D%2712%27%20cy%3D%2712%27%20r%3D%273.4%27%20fill%3D%27url%28%23g%29%27%2F%3E%3C%2Fsvg%3E" alt="" style="border-radius: 10px; vertical-align: middle;"/>
+    </div>
+    <div style="font-size: 11px; color: #8ba0b5; letter-spacing: 0.08em; text-transform: uppercase; margin-top: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">Views</div>
+  </div>
+</div>
 
 ---
 
